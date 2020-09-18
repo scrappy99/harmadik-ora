@@ -1,0 +1,47 @@
+* {
+    font-family: Arial;
+    color: #660000;
+}
+
+html {
+    background-color: #fff;
+}
+
+body {
+    background-color: #E0E0E0;
+    width: 60%;
+    margin: auto;
+    padding-top: 60px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 8px #555555;
+}
+
+.zaszlo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 90px;
+}
+
+#kozep {
+    margin: 0px 30px;
+}
+
+#bal {
+    float: left;
+}
+
+#jobb {
+    float: right;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+.szoveg {
+    clear: both;
+}
